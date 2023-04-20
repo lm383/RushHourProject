@@ -1,6 +1,6 @@
 import time
 import os
-#import click
+
 
 from src.algorithm.algorithm import (a_star, beam_search, breadth_first_search,
                                      depth_first_search)
@@ -29,7 +29,7 @@ ALGORITHM_NAME_MAPPING = {
 def solve2(algorithm, board, id):
     algorithm_implementation = ALGORITHM_NAME_MAPPING[algorithm]
     # This will solve boards in the sub folders 6x6/7x7/8x8/etc depending on the board variable
-    board_to_solve = Board.from_csv("./boards/"+board+"/board"+board+"_"+id+".csv")
+    board_to_solve = Board.from_csv(os.path.join(os.path.dirname(__file__),"./boards/"+board+"/board"+board+"_"+id+".csv"))
 
     start = time.perf_counter()
     result = algorithm_implementation(board_to_solve)
@@ -39,6 +39,7 @@ def solve2(algorithm, board, id):
         f"steps with {algorithm_implementation.__name__}. "
         f"Explored {result.number_of_explored_states} "
         f"states in {end - start} seconds."
+        f" Max queue length {result.max_memory}"
     )
 
 def solve(algorithm: str, board: str) -> None:
@@ -53,6 +54,7 @@ def solve(algorithm: str, board: str) -> None:
         f"steps with {algorithm_implementation.__name__}. "
         f"Explored {result.number_of_explored_states} "
         f"states in {end - start} seconds."
+        f" Max memory used is {result.max_memory} bytes"
     )
 
 
@@ -60,7 +62,6 @@ if __name__ == "__main__":
     #solve()
     alo = "astar"
     board = os.path.join(os.path.dirname(__file__), "./boards/board1.csv")
-
     solve(alo, board)
 
     """

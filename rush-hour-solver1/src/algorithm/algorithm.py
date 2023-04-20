@@ -6,6 +6,7 @@ from typing import List, Set
 from ..model.board import Board
 from ..model.node import ChildNode, Node
 
+import psutil
 
 class NoSolutionFoundException(Exception):
     pass
@@ -16,9 +17,10 @@ class Result:
     node: Node
     number_of_explored_states: int
     complete_board: list
-
+    max_memory: str
 
 def breadth_first_search(board: Board, max_depth: int = 1000) -> Result:
+    max_memory = 0
     depth = 0
     visited_nodes: Set[Board] = set()
     root = Node(board)
@@ -45,10 +47,14 @@ def breadth_first_search(board: Board, max_depth: int = 1000) -> Result:
                     )
                     visited_nodes.add(child_board)
                     queue.append(node)
+                    # checks how many bytes are currently being used and if its the maximum
+                    memory = psutil.Process().memory_info().rss
+                    if memory> max_memory:
+                        max_memory = memory
 
                     if child_board.is_final_configuration():
                         complete_board= child_board
-                        return Result(node, len(visited_nodes), complete_board)
+                        return Result(node, len(visited_nodes), complete_board, str(max_memory))
 
     raise NoSolutionFoundException()
 
@@ -59,6 +65,7 @@ def depth_first_search(board: Board, max_depth: int = 10000) -> Result:
     root = Node(board)
     queue = list([root])
     complete_board =[]
+    max_memory = 0
 
     if root.board.is_final_configuration():
         return Result(node, len(visited_nodes), complete_board)
@@ -76,9 +83,13 @@ def depth_first_search(board: Board, max_depth: int = 10000) -> Result:
                 )
                 visited_nodes.add(child_board)
                 queue.append(node)
+                # checks how many bytes are currently being used and if its the maximum
+                memory = psutil.Process().memory_info().rss
+                if memory> max_memory:
+                    max_memory = memory
 
                 if child_board.is_final_configuration():
-                    return Result(node, len(visited_nodes), complete_board)
+                    return Result(node, len(visited_nodes), complete_board, str(max_memory))
 
     raise NoSolutionFoundException
 
@@ -129,6 +140,7 @@ def a_star(board: Board, max_depth: int = 1000) -> Result:
     root = Node(board, depth)
     heapq.heappush(sorted_list, root)
     complete_board =[]
+    max_memory = 0
 
     if root.board.is_final_configuration():
         return Result(node, len(visited_nodes), complete_board)
@@ -149,9 +161,13 @@ def a_star(board: Board, max_depth: int = 1000) -> Result:
                     value=child_board.get_minimum_cost() + depth,
                 )
                 heapq.heappush(sorted_list, node)
+                # checks how many bytes are currently being used and if its the maximum
+                memory = psutil.Process().memory_info().rss
+                if memory> max_memory:
+                    max_memory = memory
 
                 if child_board.is_final_configuration():
-                    return Result(node, len(visited_nodes), complete_board)
+                    return Result(node, len(visited_nodes), complete_board, str(max_memory))
 
     raise NoSolutionFoundException
 
@@ -162,6 +178,7 @@ def beam_search(board: Board, width: int = 2, max_depth: int = 1000) -> Result:
     root = Node(board, depth)
     queue: List[Node] = list([root])
     complete_board =[]
+    max_memory = 0
 
     if root.board.is_final_configuration():
         return Result(node, len(visited_nodes), complete_board)
@@ -185,9 +202,13 @@ def beam_search(board: Board, width: int = 2, max_depth: int = 1000) -> Result:
                 )
 
                 heapq.heappush(beam, node)
+                # checks how many bytes are currently being used and if its the maximum
+                memory = psutil.Process().memory_info().rss
+                if memory> max_memory:
+                    max_memory = memory
 
                 if child_board.is_final_configuration():
-                    return Result(node, len(visited_nodes), complete_board)
+                    return Result(node, len(visited_nodes), complete_board, str(max_memory))
 
         for i, child in enumerate(beam):
             if i < width:

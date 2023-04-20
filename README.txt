@@ -6,6 +6,9 @@ code in rush-hour-solver1 can be found here:
 https://github.com/marvingfx/rush-hour-solver
 The changes made where to the solver.py in the main function and the added solver2 function.
 
+# Setup
+Will need to install psutil so the program can record the memory usage
+pip install psutil 
 
 The code has been edited slightly to better fit this experiment.
 The experiment is to see how the input size effects the time and space used to compute a descicion problem, in this case the Rush Hour Puzzle.
