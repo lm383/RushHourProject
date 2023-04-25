@@ -1,0 +1,362 @@
+6x6
+Found solution of 8 steps with breadth_first_search. Explored 1017 states in 0.08842889999505132 seconds.
+Found solution of 10 steps with breadth_first_search. Explored 941 states in 0.08317929995246232 seconds.
+Found solution of 6 steps with breadth_first_search. Explored 1678 states in 0.12194690003525466 seconds.
+Found solution of 7 steps with breadth_first_search. Explored 213 states in 0.017520299996249378 seconds.
+Found solution of 6 steps with breadth_first_search. Explored 488 states in 0.03456739999819547 seconds.
+Found solution of 6 steps with breadth_first_search. Explored 1119 states in 0.09410809999099001 seconds.
+Found solution of 9 steps with breadth_first_search. Explored 5674 states in 0.5523685999796726 seconds.
+Found solution of 6 steps with breadth_first_search. Explored 359 states in 0.02490130002843216 seconds.
+Found solution of 8 steps with breadth_first_search. Explored 1798 states in 0.16252289997646585 seconds.
+Found solution of 10 steps with breadth_first_search. Explored 189 states in 0.018018800008576363 seconds.
+
+Found solution of 6x6 board id:1 in 8 steps with breadth_first_search. Explored 1017 states in 0.08045769995078444 seconds.
+Found solution of 6x6 board id:2 in 10 steps with breadth_first_search. Explored 941 states in 0.0811661999905482 seconds.
+Found solution of 6x6 board id:3 in 6 steps with breadth_first_search. Explored 1678 states in 0.1091770000057295 seconds.
+Found solution of 6x6 board id:4 in 7 steps with breadth_first_search. Explored 213 states in 0.01722659997176379 seconds.
+Found solution of 6x6 board id:5 in 6 steps with breadth_first_search. Explored 488 states in 0.04294980003032833 seconds.
+Found solution of 6x6 board id:6 in 6 steps with breadth_first_search. Explored 1119 states in 0.09022400004323572 seconds.
+Found solution of 6x6 board id:7 in 9 steps with breadth_first_search. Explored 5674 states in 0.5120985999237746 seconds.
+Found solution of 6x6 board id:8 in 6 steps with breadth_first_search. Explored 359 states in 0.02616380003746599 seconds.
+Found solution of 6x6 board id:9 in 8 steps with breadth_first_search. Explored 1798 states in 0.15446800005156547 seconds.
+Found solution of 6x6 board id:10 in 10 steps with breadth_first_search. Explored 189 states in 0.01971989998128265 seconds.
+
+Found solution of 6x6 board id:1 in 8 steps with breadth_first_search. Explored 1017 states in 0.0840618999209255 seconds.
+Found solution of 6x6 board id:2 in 10 steps with breadth_first_search. Explored 941 states in 0.08675380004569888 seconds.
+Found solution of 6x6 board id:3 in 6 steps with breadth_first_search. Explored 1678 states in 0.10535470000468194 seconds.
+Found solution of 6x6 board id:4 in 7 steps with breadth_first_search. Explored 213 states in 0.027407299960032105 seconds.
+Found solution of 6x6 board id:5 in 6 steps with breadth_first_search. Explored 488 states in 0.0439907000400126 seconds.
+Found solution of 6x6 board id:6 in 6 steps with breadth_first_search. Explored 1119 states in 0.08727120002731681 seconds.
+Found solution of 6x6 board id:7 in 9 steps with breadth_first_search. Explored 5674 states in 0.5104202000657097 seconds.
+Found solution of 6x6 board id:8 in 6 steps with breadth_first_search. Explored 359 states in 0.0252631000475958 seconds.
+Found solution of 6x6 board id:9 in 8 steps with breadth_first_search. Explored 1798 states in 0.15693389996886253 seconds.
+Found solution of 6x6 board id:10 in 10 steps with breadth_first_search. Explored 189 states in 0.0173766000661999 seconds.
+
+7x7
+
+Found solution of 7x7 board id:1 in 6 steps with breadth_first_search. Explored 2316 states in 0.1934496999019757 seconds.
+Found solution of 7x7 board id:2 in 7 steps with breadth_first_search. Explored 3566 states in 0.29908040002919734 seconds.
+Found solution of 7x7 board id:3 in 12 steps with breadth_first_search. Explored 19220 states in 1.867413700092584 seconds.
+Found solution of 7x7 board id:4 in 7 steps with breadth_first_search. Explored 9128 states in 0.724697700003162 seconds.
+Found solution of 7x7 board id:5 in 10 steps with breadth_first_search. Explored 2150 states in 0.16526270005851984 seconds.
+Found solution of 7x7 board id:6 in 6 steps with breadth_first_search. Explored 2561 states in 0.1589424000121653 seconds.
+Found solution of 7x7 board id:7 in 6 steps with breadth_first_search. Explored 4706 states in 0.2909982999553904 seconds.
+Found solution of 7x7 board id:8 in 6 steps with breadth_first_search. Explored 4701 states in 0.31946290004998446 seconds.
+Found solution of 7x7 board id:9 in 8 steps with breadth_first_search. Explored 11999 states in 0.9261019999394193 seconds.
+Found solution of 7x7 board id:10 in 10 steps with breadth_first_search. Explored 6784 states in 0.5062418000306934 seconds.
+
+Found solution of 7x7 board id:1 in 6 steps with breadth_first_search. Explored 2316 states in 0.16270840005017817 seconds.
+Found solution of 7x7 board id:2 in 7 steps with breadth_first_search. Explored 3566 states in 0.2747183999745175 seconds.
+Found solution of 7x7 board id:3 in 12 steps with breadth_first_search. Explored 19220 states in 1.9377724999794737 seconds.
+Found solution of 7x7 board id:4 in 7 steps with breadth_first_search. Explored 9128 states in 0.8841394999762997 seconds.
+Found solution of 7x7 board id:5 in 10 steps with breadth_first_search. Explored 2150 states in 0.17323039995972067 seconds.
+Found solution of 7x7 board id:6 in 6 steps with breadth_first_search. Explored 2561 states in 0.16075839998666197 seconds.
+Found solution of 7x7 board id:7 in 6 steps with breadth_first_search. Explored 4706 states in 0.3030131000559777 seconds.
+Found solution of 7x7 board id:8 in 6 steps with breadth_first_search. Explored 4701 states in 0.5093822999624535 seconds.
+Found solution of 7x7 board id:9 in 8 steps with breadth_first_search. Explored 11999 states in 0.9605259000090882 seconds.
+Found solution of 7x7 board id:10 in 10 steps with breadth_first_search. Explored 6784 states in 0.5264798999996856 seconds.
+
+Found solution of 7x7 board id:1 in 6 steps with breadth_first_search. Explored 2316 states in 0.16941889992449433 seconds.
+Found solution of 7x7 board id:2 in 7 steps with breadth_first_search. Explored 3566 states in 0.2764792999951169 seconds.
+Found solution of 7x7 board id:3 in 12 steps with breadth_first_search. Explored 19220 states in 1.81913059996441 seconds.
+Found solution of 7x7 board id:4 in 7 steps with breadth_first_search. Explored 9128 states in 0.7462901999242604 seconds.
+Found solution of 7x7 board id:5 in 10 steps with breadth_first_search. Explored 2150 states in 0.1689386999933049 seconds.
+Found solution of 7x7 board id:6 in 6 steps with breadth_first_search. Explored 2561 states in 0.1667075000004843 seconds.
+Found solution of 7x7 board id:7 in 6 steps with breadth_first_search. Explored 4706 states in 0.29250890004914254 seconds.
+Found solution of 7x7 board id:8 in 6 steps with breadth_first_search. Explored 4701 states in 0.3191221000161022 seconds.
+Found solution of 7x7 board id:9 in 8 steps with breadth_first_search. Explored 11999 states in 0.9680264999624342 seconds.
+Found solution of 7x7 board id:10 in 10 steps with breadth_first_search. Explored 6784 states in 0.5534417000599205 seconds.
+
+8x8
+
+Found solution of 8x8 board id:1 in 7 steps with breadth_first_search. Explored 11452 states in 0.9214572999626398 seconds.
+Found solution of 8x8 board id:2 in 7 steps with breadth_first_search. Explored 14865 states in 1.231692900066264 seconds.
+Found solution of 8x8 board id:3 in 7 steps with breadth_first_search. Explored 13178 states in 1.0426839999854565 seconds.
+Found solution of 8x8 board id:4 in 8 steps with breadth_first_search. Explored 8013 states in 0.5616479000309482 seconds.
+Found solution of 8x8 board id:5 in 10 steps with breadth_first_search. Explored 130880 states in 14.337550100055523 seconds.
+Found solution of 8x8 board id:6 in 7 steps with breadth_first_search. Explored 14634 states in 0.9999482999555767 seconds.
+Found solution of 8x8 board id:7 in 10 steps with breadth_first_search. Explored 62615 states in 6.025613500038162 seconds.
+Found solution of 8x8 board id:8 in 10 steps with breadth_first_search. Explored 38790 states in 4.038255300023593 seconds.
+Found solution of 8x8 board id:9 in 13 steps with breadth_first_search. Explored 17894 states in 2.0789307000814006 seconds.
+Found solution of 8x8 board id:10 in 7 steps with breadth_first_search. Explored 14880 states in 1.1018038999754936 seconds.
+
+Found solution of 8x8 board id:1 in 7 steps with breadth_first_search. Explored 11452 states in 1.0748209999874234 seconds.
+Found solution of 8x8 board id:2 in 7 steps with breadth_first_search. Explored 14865 states in 1.1330644000554457 seconds.
+Found solution of 8x8 board id:3 in 7 steps with breadth_first_search. Explored 13178 states in 0.9275103999534622 seconds.
+Found solution of 8x8 board id:4 in 8 steps with breadth_first_search. Explored 8013 states in 0.5506431000540033 seconds.
+Found solution of 8x8 board id:5 in 10 steps with breadth_first_search. Explored 130880 states in 13.946015099994838 seconds.
+Found solution of 8x8 board id:6 in 7 steps with breadth_first_search. Explored 14634 states in 1.0308061999967322 seconds.
+Found solution of 8x8 board id:7 in 10 steps with breadth_first_search. Explored 62615 states in 6.127770100021735 seconds.
+Found solution of 8x8 board id:8 in 10 steps with breadth_first_search. Explored 38790 states in 4.010881999973208 seconds.
+Found solution of 8x8 board id:9 in 13 steps with breadth_first_search. Explored 17894 states in 2.0551594001008198 seconds.
+Found solution of 8x8 board id:10 in 7 steps with breadth_first_search. Explored 14880 states in 1.0892321999417618 seconds.
+
+Found solution of 8x8 board id:1 in 7 steps with breadth_first_search. Explored 11452 states in 0.9026884000049904 seconds.
+Found solution of 8x8 board id:2 in 7 steps with breadth_first_search. Explored 14865 states in 1.1528650000691414 seconds.
+Found solution of 8x8 board id:3 in 7 steps with breadth_first_search. Explored 13178 states in 0.953853000071831 seconds.
+Found solution of 8x8 board id:4 in 8 steps with breadth_first_search. Explored 8013 states in 0.5529608000069857 seconds.
+Found solution of 8x8 board id:5 in 10 steps with breadth_first_search. Explored 130880 states in 13.988270199974068 seconds.
+Found solution of 8x8 board id:6 in 7 steps with breadth_first_search. Explored 14634 states in 1.0172005000058562 seconds.
+Found solution of 8x8 board id:7 in 10 steps with breadth_first_search. Explored 62615 states in 6.032174699939787 seconds.
+Found solution of 8x8 board id:8 in 10 steps with breadth_first_search. Explored 38790 states in 4.382172600016929 seconds.
+Found solution of 8x8 board id:9 in 13 steps with breadth_first_search. Explored 17894 states in 2.0730241000419483 seconds.
+Found solution of 8x8 board id:10 in 7 steps with breadth_first_search. Explored 14880 states in 1.0759510999778286 seconds.
+
+9x9
+
+Found solution of 9x9 board id:1 in 12 steps with breadth_first_search. Explored 76902 states in 9.031533299945295 seconds.
+Found solution of 9x9 board id:2 in 11 steps with breadth_first_search. Explored 10953 states in 0.8855658000102267 seconds.
+Found solution of 9x9 board id:3 in 10 steps with breadth_first_search. Explored 3487 states in 0.2502091999631375 seconds.
+Found solution of 9x9 board id:4 in 16 steps with breadth_first_search. Explored 46858 states in 5.803165200049989 seconds.
+Found solution of 9x9 board id:5 in 16 steps with breadth_first_search. Explored 121994 states in 15.643503100029193 seconds.
+Found solution of 9x9 board id:6 in 12 steps with breadth_first_search. Explored 84696 states in 10.36596790002659 seconds.
+Found solution of 9x9 board id:7 in 10 steps with breadth_first_search. Explored 27370 states in 2.704923899960704 seconds.
+Found solution of 9x9 board id:8 in 11 steps with breadth_first_search. Explored 172618 states in 20.3959307000041 seconds.
+Found solution of 9x9 board id:9 in 10 steps with breadth_first_search. Explored 21751 states in 2.0221872999100015 seconds.
+Found solution of 9x9 board id:10 in 15 steps with breadth_first_search. Explored 1042166 states in 214.57363700005226 seconds.
+9x9 2:
+Found solution of 9x9 board id:1 in 12 steps with breadth_first_search. Explored 76902 states in 8.355769299902022 seconds.
+Found solution of 9x9 board id:2 in 11 steps with breadth_first_search. Explored 10953 states in 0.8964358998928219 seconds.
+Found solution of 9x9 board id:3 in 10 steps with breadth_first_search. Explored 3487 states in 0.2533920001005754 seconds.
+Found solution of 9x9 board id:4 in 16 steps with breadth_first_search. Explored 46858 states in 5.651969200000167 seconds.
+Found solution of 9x9 board id:5 in 16 steps with breadth_first_search. Explored 121994 states in 15.544897499959916 seconds.
+Found solution of 9x9 board id:6 in 12 steps with breadth_first_search. Explored 84696 states in 10.462576400022954 seconds.
+Found solution of 9x9 board id:7 in 10 steps with breadth_first_search. Explored 27370 states in 2.7185805999906734 seconds.
+Found solution of 9x9 board id:8 in 11 steps with breadth_first_search. Explored 172618 states in 20.620065100025386 seconds.
+Found solution of 9x9 board id:9 in 10 steps with breadth_first_search. Explored 21751 states in 2.0249804999912158 seconds.
+Found solution of 9x9 board id:10 in 15 steps with breadth_first_search. Explored 1042166 states in 212.74894239997957 seconds.
+9x9 3:
+Found solution of 9x9 board id:1 in 12 steps with breadth_first_search. Explored 76902 states in 9.04254359996412 seconds.
+Found solution of 9x9 board id:2 in 11 steps with breadth_first_search. Explored 10953 states in 0.8908469000598416 seconds.
+Found solution of 9x9 board id:3 in 10 steps with breadth_first_search. Explored 3487 states in 0.26227900001686066 seconds.
+Found solution of 9x9 board id:4 in 16 steps with breadth_first_search. Explored 46858 states in 5.806371600017883 seconds.
+Found solution of 9x9 board id:5 in 16 steps with breadth_first_search. Explored 121994 states in 15.28452109999489 seconds.
+Found solution of 9x9 board id:6 in 12 steps with breadth_first_search. Explored 84696 states in 10.323161500040442 seconds.
+Found solution of 9x9 board id:7 in 10 steps with breadth_first_search. Explored 27370 states in 2.6870321000460535 seconds.
+Found solution of 9x9 board id:8 in 11 steps with breadth_first_search. Explored 172618 states in 20.476060700020753 seconds.
+Found solution of 9x9 board id:9 in 10 steps with breadth_first_search. Explored 21751 states in 2.010973499971442 seconds.
+Found solution of 9x9 board id:10 in 15 steps with breadth_first_search. Explored 1042166 states in 212.28732270002365 seconds.
+
+10x10
+10x10 1:
+Found solution of 10x10 board id:1 in 10 steps with breadth_first_search. Explored 63562 states in 6.622513100039214 seconds.
+Found solution of 10x10 board id:2 in 9 steps with breadth_first_search. Explored 119669 states in 11.57695410004817 seconds.
+Found solution of 10x10 board id:3 in 9 steps with breadth_first_search. Explored 3502 states in 0.26415659999474883 seconds.
+Found solution of 10x10 board id:4 in 10 steps with breadth_first_search. Explored 30214 states in 2.615646500024013 seconds.
+Found solution of 10x10 board id:5 in 10 steps with breadth_first_search. Explored 204178 states in 24.107663900009356 seconds.
+Found solution of 10x10 board id:6 in 13 steps with breadth_first_search. Explored 82959 states in 10.403060399927199 seconds.
+Found solution of 10x10 board id:7 in 12 steps with breadth_first_search. Explored 168774 states in 17.97477189998608 seconds.
+Found solution of 10x10 board id:8 in 12 steps with breadth_first_search. Explored 116715 states in 12.938445699983276 seconds.
+Found solution of 10x10 board id:9 in 11 steps with breadth_first_search. Explored 264525 states in 30.661914100055583 seconds.
+Found solution of 10x10 board id:10 in 11 steps with breadth_first_search. Explored 28359 states in 2.8759874999523163 seconds.
+10x10 2:
+Found solution of 10x10 board id:1 in 10 steps with breadth_first_search. Explored 63562 states in 6.493358500069007 seconds.
+Found solution of 10x10 board id:2 in 9 steps with breadth_first_search. Explored 119669 states in 11.381952100084163 seconds.
+Found solution of 10x10 board id:3 in 9 steps with breadth_first_search. Explored 3502 states in 0.24610760004725307 seconds.
+Found solution of 10x10 board id:4 in 10 steps with breadth_first_search. Explored 30214 states in 2.58647750003729 seconds.
+Found solution of 10x10 board id:5 in 10 steps with breadth_first_search. Explored 204178 states in 21.66371159988921 seconds.
+Found solution of 10x10 board id:6 in 13 steps with breadth_first_search. Explored 82959 states in 9.853918500011787 seconds.
+Found solution of 10x10 board id:7 in 12 steps with breadth_first_search. Explored 168774 states in 17.818912100046873 seconds.
+Found solution of 10x10 board id:8 in 12 steps with breadth_first_search. Explored 116715 states in 12.825494599994272 seconds.
+Found solution of 10x10 board id:9 in 11 steps with breadth_first_search. Explored 264525 states in 30.4752355000237 seconds.
+Found solution of 10x10 board id:10 in 11 steps with breadth_first_search. Explored 28359 states in 2.8695073999697343 seconds.
+10x10 3:
+Found solution of 10x10 board id:1 in 10 steps with breadth_first_search. Explored 63562 states in 6.713966200011782 seconds.
+Found solution of 10x10 board id:2 in 9 steps with breadth_first_search. Explored 119669 states in 11.293245099950582 seconds.
+Found solution of 10x10 board id:3 in 9 steps with breadth_first_search. Explored 3502 states in 0.24682570004370064 seconds.
+Found solution of 10x10 board id:4 in 10 steps with breadth_first_search. Explored 30214 states in 2.60813159996178 seconds.
+Found solution of 10x10 board id:5 in 10 steps with breadth_first_search. Explored 204178 states in 21.801563399960287 seconds.
+Found solution of 10x10 board id:6 in 13 steps with breadth_first_search. Explored 82959 states in 9.880191799951717 seconds.
+Found solution of 10x10 board id:7 in 12 steps with breadth_first_search. Explored 168774 states in 17.932590499985963 seconds.
+Found solution of 10x10 board id:8 in 12 steps with breadth_first_search. Explored 116715 states in 12.57890649989713 seconds.
+Found solution of 10x10 board id:9 in 11 steps with breadth_first_search. Explored 264525 states in 30.634560500038788 seconds.
+Found solution of 10x10 board id:10 in 11 steps with breadth_first_search. Explored 28359 states in 2.819663100061007 seconds.
+
+
+
+
+11x11
+
+1:
+Found solution of 11x11 board id:1 in 17 steps with breadth_first_search. Explored 43537 states in 5.795138499990571 seconds.
+Found solution of 11x11 board id:2 in 20 steps with breadth_first_search. Explored 41902 states in 5.927059200010262 seconds.
+Found solution of 11x11 board id:3 in 9 steps with breadth_first_search. Explored 35312 states in 3.1405166999902576 seconds.
+Found solution of 11x11 board id:4 in 9 steps with breadth_first_search. Explored 31636 states in 2.919697500008624 seconds.
+Found solution of 11x11 board id:5 in 11 steps with breadth_first_search. Explored 22204 states in 2.1553238999913447 seconds.
+Found solution of 11x11 board id:6 in 14 steps with breadth_first_search. Explored 346872 states in 51.712246800016146 seconds.
+Found solution of 11x11 board id:7 in 12 steps with breadth_first_search. Explored 79174 states in 8.853909600002225 seconds.
+Found solution of 11x11 board id:8 in 18 steps with breadth_first_search. Explored 458134 states in 71.5489258999587 seconds.
+Found solution of 11x11 board id:9 in 11 steps with breadth_first_search. Explored 77960 states in 8.600291699985974 seconds.
+Found solution of 11x11 board id:10 in 15 steps with breadth_first_search. Explored 2068315 states in 691.7617559999926 seconds.
+11x11 2:
+Found solution of 11x11 board id:1 in 17 steps with breadth_first_search. Explored 43537 states in 5.678270500036888 seconds.
+Found solution of 11x11 board id:2 in 20 steps with breadth_first_search. Explored 41902 states in 5.461169900023378 seconds.
+Found solution of 11x11 board id:3 in 9 steps with breadth_first_search. Explored 35312 states in 2.9892145000048913 seconds.
+Found solution of 11x11 board id:4 in 9 steps with breadth_first_search. Explored 31636 states in 2.7418018999742344 seconds.
+Found solution of 11x11 board id:5 in 11 steps with breadth_first_search. Explored 22204 states in 2.106825100025162 seconds.
+Found solution of 11x11 board id:6 in 14 steps with breadth_first_search. Explored 346872 states in 50.963381899986416 seconds.
+Found solution of 11x11 board id:7 in 12 steps with breadth_first_search. Explored 79174 states in 8.8053382000071 seconds.
+Found solution of 11x11 board id:8 in 18 steps with breadth_first_search. Explored 458134 states in 71.85805529996287 seconds.
+Found solution of 11x11 board id:9 in 11 steps with breadth_first_search. Explored 77960 states in 8.409282500040717 seconds.
+Found solution of 11x11 board id:10 in 15 steps with breadth_first_search. Explored 2068315 states in 686.6787968000281 seconds.
+11x11 3:
+Found solution of 11x11 board id:1 in 17 steps with breadth_first_search. Explored 43537 states in 5.354066000028979 seconds.
+Found solution of 11x11 board id:2 in 20 steps with breadth_first_search. Explored 41902 states in 5.515583999978844 seconds.
+Found solution of 11x11 board id:3 in 9 steps with breadth_first_search. Explored 35312 states in 3.0751649999874644 seconds.
+Found solution of 11x11 board id:4 in 9 steps with breadth_first_search. Explored 31636 states in 2.8321893999818712 seconds.
+Found solution of 11x11 board id:5 in 11 steps with breadth_first_search. Explored 22204 states in 2.103784699982498 seconds.
+Found solution of 11x11 board id:6 in 14 steps with breadth_first_search. Explored 346872 states in 52.00615110003855 seconds.
+Found solution of 11x11 board id:7 in 12 steps with breadth_first_search. Explored 79174 states in 8.676321199978702 seconds.
+Found solution of 11x11 board id:8 in 18 steps with breadth_first_search. Explored 458134 states in 72.20417099999031 seconds.
+Found solution of 11x11 board id:9 in 11 steps with breadth_first_search. Explored 77960 states in 8.386906200030353 seconds.
+Found solution of 11x11 board id:10 in 15 steps with breadth_first_search. Explored 2068315 states in 686.008816400019 seconds.
+
+
+12x12
+
+1:
+Found solution of 12x12 board id:1 in 13 steps with breadth_first_search. Explored 75299 states in 7.6260359000298195 seconds.
+Found solution of 12x12 board id:2 in 11 steps with breadth_first_search. Explored 86644 states in 8.648826499993447 seconds.
+Found solution of 12x12 board id:3 in 12 steps with breadth_first_search. Explored 19387 states in 1.7515538000152446 seconds.
+Found solution of 12x12 board id:4 in 14 steps with breadth_first_search. Explored 148419 states in 19.491560099995695 seconds.
+Found solution of 12x12 board id:5 in 10 steps with breadth_first_search. Explored 66727 states in 6.766309699974954 seconds.
+Found solution of 12x12 board id:6 in 15 steps with breadth_first_search. Explored 31687 states in 3.156788200023584 seconds.
+Found solution of 12x12 board id:7 in 13 steps with breadth_first_search. Explored 119560 states in 13.73699740000302 seconds.
+Found solution of 12x12 board id:8 in 10 steps with breadth_first_search. Explored 208570 states in 23.601969500014093 seconds.
+Found solution of 12x12 board id:9 in 13 steps with breadth_first_search. Explored 75955 states in 9.085223600035533 seconds.
+Found solution of 12x12 board id:10 in 17 steps with breadth_first_search. Explored 1425240 states in 292.81180339999264 seconds.
+12x12 2:
+Found solution of 12x12 board id:1 in 13 steps with breadth_first_search. Explored 75299 states in 7.822397600044496 seconds.
+Found solution of 12x12 board id:2 in 11 steps with breadth_first_search. Explored 86644 states in 8.65798379998887 seconds.
+Found solution of 12x12 board id:3 in 12 steps with breadth_first_search. Explored 19387 states in 1.7849392999778502 seconds.
+Found solution of 12x12 board id:4 in 14 steps with breadth_first_search. Explored 148419 states in 19.53048909996869 seconds.
+Found solution of 12x12 board id:5 in 10 steps with breadth_first_search. Explored 66727 states in 6.807032499986235 seconds.
+Found solution of 12x12 board id:6 in 15 steps with breadth_first_search. Explored 31687 states in 3.176097800023854 seconds.
+Found solution of 12x12 board id:7 in 13 steps with breadth_first_search. Explored 119560 states in 13.83503820002079 seconds.
+Found solution of 12x12 board id:8 in 10 steps with breadth_first_search. Explored 208570 states in 23.631609000032768 seconds.
+Found solution of 12x12 board id:9 in 13 steps with breadth_first_search. Explored 75955 states in 9.070119300042279 seconds.
+Found solution of 12x12 board id:10 in 17 steps with breadth_first_search. Explored 1425240 states in 293.8548698000377 seconds.
+12x12 3:
+Found solution of 12x12 board id:1 in 13 steps with breadth_first_search. Explored 75299 states in 7.642806100018788 seconds.
+Found solution of 12x12 board id:2 in 11 steps with breadth_first_search. Explored 86644 states in 8.667401599988807 seconds.
+Found solution of 12x12 board id:3 in 12 steps with breadth_first_search. Explored 19387 states in 1.758436200034339 seconds.
+Found solution of 12x12 board id:4 in 14 steps with breadth_first_search. Explored 148419 states in 19.811883000016678 seconds.
+Found solution of 12x12 board id:5 in 10 steps with breadth_first_search. Explored 66727 states in 6.788486999983434 seconds.
+Found solution of 12x12 board id:6 in 15 steps with breadth_first_search. Explored 31687 states in 3.2089606000226922 seconds.
+Found solution of 12x12 board id:7 in 13 steps with breadth_first_search. Explored 119560 states in 14.132589699991513 seconds.
+Found solution of 12x12 board id:8 in 10 steps with breadth_first_search. Explored 208570 states in 23.89583190000849 seconds.
+Found solution of 12x12 board id:9 in 13 steps with breadth_first_search. Explored 75955 states in 9.043683300027624 seconds.
+Found solution of 12x12 board id:10 in 17 steps with breadth_first_search. Explored 1425240 states in 294.8342966999626 seconds.
+
+
+13x13
+1:
+Found solution of 13x13 board id:1 in 15 steps with breadth_first_search. Explored 342599 states in 44.561092000003555 seconds.
+Found solution of 13x13 board id:2 in 11 steps with breadth_first_search. Explored 124111 states in 12.53610270000354 seconds.
+Found solution of 13x13 board id:3 in 12 steps with breadth_first_search. Explored 324164 states in 40.80006449999928 seconds.
+Found solution of 13x13 board id:4 in 18 steps with breadth_first_search. Explored 6874639 states in 4783.03329359999 seconds.
+Found solution of 13x13 board id:5 in 16 steps with breadth_first_search. Explored 157173 states in 18.61743220000062 seconds.
+Found solution of 13x13 board id:6 in 16 steps with breadth_first_search. Explored 211085 states in 26.55956249999872 seconds.
+Found solution of 13x13 board id:7 in 16 steps with breadth_first_search. Explored 72025 states in 7.871880799997598 seconds.
+Found solution of 13x13 board id:8 in 13 steps with breadth_first_search. Explored 1155704 states in 240.14297040000383 seconds.
+Found solution of 13x13 board id:9 in 13 steps with breadth_first_search. Explored 534380 states in 72.43614759999036 seconds.
+Found solution of 13x13 board id:10 in 13 steps with breadth_first_search. Explored 474543 states in 61.13314409999293 seconds.
+13x13 2:
+Found solution of 13x13 board id:1 in 15 steps with breadth_first_search. Explored 342599 states in 43.743536800000584 seconds.
+Found solution of 13x13 board id:2 in 11 steps with breadth_first_search. Explored 124111 states in 12.505721099994844 seconds.
+Found solution of 13x13 board id:3 in 12 steps with breadth_first_search. Explored 324164 states in 40.152249200007645 seconds.
+Found solution of 13x13 board id:4 in 18 steps with breadth_first_search. Explored 6874639 states in 4818.340983400005 seconds.
+Found solution of 13x13 board id:5 in 16 steps with breadth_first_search. Explored 157173 states in 19.12281780000194 seconds.
+Found solution of 13x13 board id:6 in 16 steps with breadth_first_search. Explored 211085 states in 27.34539789998962 seconds.
+Found solution of 13x13 board id:7 in 16 steps with breadth_first_search. Explored 72025 states in 8.115711999998894 seconds.
+Found solution of 13x13 board id:8 in 13 steps with breadth_first_search. Explored 1155704 states in 242.9532523000089 seconds.
+Found solution of 13x13 board id:9 in 13 steps with breadth_first_search. Explored 534380 states in 75.12530279999191 seconds.
+Found solution of 13x13 board id:10 in 13 steps with breadth_first_search. Explored 474543 states in 62.23439189999772 seconds.
+13x13 3:
+Found solution of 13x13 board id:1 in 15 steps with breadth_first_search. Explored 342599 states in 44.540050299998256 seconds.
+Found solution of 13x13 board id:2 in 11 steps with breadth_first_search. Explored 124111 states in 12.911092100010137 seconds.
+Found solution of 13x13 board id:3 in 12 steps with breadth_first_search. Explored 324164 states in 40.72019010000804 seconds.
+Found solution of 13x13 board id:4 in 18 steps with breadth_first_search. Explored 6874639 states in 4956.796147900008 seconds.
+Found solution of 13x13 board id:5 in 16 steps with breadth_first_search. Explored 157173 states in 19.203697099990677 seconds.
+Found solution of 13x13 board id:6 in 16 steps with breadth_first_search. Explored 211085 states in 27.432042000000365 seconds.
+Found solution of 13x13 board id:7 in 16 steps with breadth_first_search. Explored 72025 states in 8.15925419999985 seconds.
+Found solution of 13x13 board id:8 in 13 steps with breadth_first_search. Explored 1155704 states in 243.03774369999883 seconds.
+Found solution of 13x13 board id:9 in 13 steps with breadth_first_search. Explored 534380 states in 75.16163819999201 seconds.
+Found solution of 13x13 board id:10 in 13 steps with breadth_first_search. Explored 474543 states in 63.42913079999562 seconds.
+
+
+
+14x14
+1:
+Found solution of 14x14 board id:1 in 12 steps with breadth_first_search. Explored 32319 states in 3.241284000003361 seconds.
+Found solution of 14x14 board id:2 in 15 steps with breadth_first_search. Explored 527569 states in 71.96439930000633 seconds.
+Found solution of 14x14 board id:3 in 13 steps with breadth_first_search. Explored 131387 states in 18.429695400001947 seconds.
+Found solution of 14x14 board id:4 in 14 steps with breadth_first_search. Explored 1491973 states in 375.5442361000023 seconds.
+Found solution of 14x14 board id:5 in 13 steps with breadth_first_search. Explored 820458 states in 144.01868690000265 seconds.
+Found solution of 14x14 board id:6 in 14 steps with breadth_first_search. Explored 140652 states in 16.562753200007137 seconds.
+Found solution of 14x14 board id:7 in 13 steps with breadth_first_search. Explored 638440 states in 96.1199542000104 seconds.
+Found solution of 14x14 board id:8 in 13 steps with breadth_first_search. Explored 1720268 states in 470.11168149999867 seconds.
+Found solution of 14x14 board id:9 in 15 steps with breadth_first_search. Explored 693416 states in 104.88847109999915 seconds.
+Found solution of 14x14 board id:10 in 13 steps with breadth_first_search. Explored 123682 states in 14.447776200002409 seconds.
+
+14x14 2:
+Found solution of 14x14 board id:1 in 12 steps with breadth_first_search. Explored 32319 states in 3.104007499990985 seconds.
+Found solution of 14x14 board id:2 in 15 steps with breadth_first_search. Explored 527569 states in 67.3868294999993 seconds.
+Found solution of 14x14 board id:3 in 13 steps with breadth_first_search. Explored 131387 states in 15.622986099973787 seconds.
+Found solution of 14x14 board id:4 in 14 steps with breadth_first_search. Explored 1491973 states in 372.53474730000016 seconds.
+Found solution of 14x14 board id:5 in 13 steps with breadth_first_search. Explored 820458 states in 143.32152379999752 seconds.
+Found solution of 14x14 board id:6 in 14 steps with breadth_first_search. Explored 140652 states in 16.209511900000507 seconds.
+Found solution of 14x14 board id:7 in 13 steps with breadth_first_search. Explored 638440 states in 92.71507240002393 seconds.
+Found solution of 14x14 board id:8 in 13 steps with breadth_first_search. Explored 1720268 states in 467.1837901000108 seconds.
+Found solution of 14x14 board id:9 in 15 steps with breadth_first_search. Explored 693416 states in 104.56176410001353 seconds.
+Found solution of 14x14 board id:10 in 13 steps with breadth_first_search. Explored 123682 states in 14.150994900002843 seconds.
+14x14 3:
+Found solution of 14x14 board id:1 in 12 steps with breadth_first_search. Explored 32319 states in 3.0209711999923456 seconds.
+Found solution of 14x14 board id:2 in 15 steps with breadth_first_search. Explored 527569 states in 66.83303159999195 seconds.
+Found solution of 14x14 board id:3 in 13 steps with breadth_first_search. Explored 131387 states in 15.264398100000108 seconds.
+Found solution of 14x14 board id:4 in 14 steps with breadth_first_search. Explored 1491973 states in 371.27275559998816 seconds.
+Found solution of 14x14 board id:5 in 13 steps with breadth_first_search. Explored 820458 states in 142.70236560000922 seconds.
+Found solution of 14x14 board id:6 in 14 steps with breadth_first_search. Explored 140652 states in 16.09140970002045 seconds.
+Found solution of 14x14 board id:7 in 13 steps with breadth_first_search. Explored 638440 states in 93.175570899999 seconds.
+Found solution of 14x14 board id:8 in 13 steps with breadth_first_search. Explored 1720268 states in 467.5839494999964 seconds.
+Found solution of 14x14 board id:9 in 15 steps with breadth_first_search. Explored 693416 states in 102.57416660001036 seconds.
+Found solution of 14x14 board id:10 in 13 steps with breadth_first_search. Explored 123682 states in 14.272541899990756 seconds.
+
+
+15x15
+1:
+Found solution of 15x15 board id:1 in 14 steps with breadth_first_search. Explored 1599529 states in 423.8454028000124 seconds.
+Found solution of 15x15 board id:2 in 14 steps with breadth_first_search. Explored 3534897 states in 1722.157249699987 seconds.
+Found solution of 15x15 board id:3 in 16 steps with breadth_first_search. Explored 2933448 states in 1130.0986169000098 seconds.
+Found solution of 15x15 board id:4 in 14 steps with breadth_first_search. Explored 460793 states in 57.54014680002001 seconds.
+Found solution of 15x15 board id:5 in 19 steps with breadth_first_search. Explored 313238 states in 38.64689100001124 seconds.
+Found solution of 15x15 board id:6 in 14 steps with breadth_first_search. Explored 1002090 states in 213.65867800000706 seconds.
+Found solution of 15x15 board id:7 in 20 steps with breadth_first_search. Explored 4251939 states in 1870.9524626999919 seconds.
+Found solution of 15x15 board id:8 in 16 steps with breadth_first_search. Explored 245812 states in 28.859475499979453 seconds.
+Found solution of 15x15 board id:9 in 17 steps with breadth_first_search. Explored 1694474 states in 438.38371769999503 seconds.
+Found solution of 15x15 board id:10 in 21 steps with breadth_first_search. Explored 3550384 states in 1348.0155563000008 seconds.
+15x15 2:
+Found solution of 15x15 board id:1 in 14 steps with breadth_first_search. Explored 1599529 states in 420.6802638999943 seconds.
+Found solution of 15x15 board id:2 in 14 steps with breadth_first_search. Explored 3534897 states in 1728.2020591000037 seconds.
+Found solution of 15x15 board id:3 in 16 steps with breadth_first_search. Explored 2933448 states in 1134.282910000009 seconds.
+Found solution of 15x15 board id:4 in 14 steps with breadth_first_search. Explored 460793 states in 57.752910900017014 seconds.
+Found solution of 15x15 board id:5 in 19 steps with breadth_first_search. Explored 313238 states in 38.58540830001584 seconds.
+Found solution of 15x15 board id:6 in 14 steps with breadth_first_search. Explored 1002090 states in 201.59046999999555 seconds.
+Found solution of 15x15 board id:7 in 20 steps with breadth_first_search. Explored 4251939 states in 1863.3875340000086 seconds.
+Found solution of 15x15 board id:8 in 16 steps with breadth_first_search. Explored 245812 states in 28.819682000001194 seconds.
+Found solution of 15x15 board id:9 in 17 steps with breadth_first_search. Explored 1694474 states in 436.53225609997753 seconds.
+Found solution of 15x15 board id:10 in 21 steps with breadth_first_search. Explored 3550384 states in 1347.7406590999744 seconds.
+15x15 3:
+Found solution of 15x15 board id:1 in 14 steps with breadth_first_search. Explored 1599529 states in 420.91255059998366 seconds.
+Found solution of 15x15 board id:2 in 14 steps with breadth_first_search. Explored 3534897 states in 1713.7857096000225 seconds.
+Found solution of 15x15 board id:3 in 16 steps with breadth_first_search. Explored 2933448 states in 1124.5340616999893 seconds.
+Found solution of 15x15 board id:4 in 14 steps with breadth_first_search. Explored 460793 states in 55.44989049999276 seconds.
+Found solution of 15x15 board id:5 in 19 steps with breadth_first_search. Explored 313238 states in 38.39142499997979 seconds.
+Found solution of 15x15 board id:6 in 14 steps with breadth_first_search. Explored 1002090 states in 199.81770910002524 seconds.
+Found solution of 15x15 board id:7 in 20 steps with breadth_first_search. Explored 4251939 states in 1839.0256199000287 seconds.
+Found solution of 15x15 board id:8 in 16 steps with breadth_first_search. Explored 245812 states in 29.840661199996248 seconds.
+Found solution of 15x15 board id:9 in 17 steps with breadth_first_search. Explored 1694474 states in 433.3484466999944 seconds.
+Found solution of 15x15 board id:10 in 21 steps with breadth_first_search. Explored 3550384 states in 1335.8311628999945 seconds.
+
+
+memory

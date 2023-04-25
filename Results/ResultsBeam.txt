@@ -1,0 +1,335 @@
+6x6
+ 1:
+Found solution of 6x6 board id:1 in 9 steps with beam_search. Explored 634 states in 0.12764329998753965 seconds.
+Found solution of 6x6 board id:2 in 10 steps with beam_search. Explored 517 states in 0.057974499999545515 seconds.
+Found solution of 6x6 board id:3 in 10 steps with beam_search. Explored 2048 states in 0.14083260000916198 seconds.
+Found solution of 6x6 board id:4 in 8 steps with beam_search. Explored 109 states in 0.007424999959766865 seconds.
+Found solution of 6x6 board id:5 in 10 steps with beam_search. Explored 754 states in 0.08103649999247864 seconds.
+Found solution of 6x6 board id:6 in 10 steps with beam_search. Explored 991 states in 0.08173630002420396 seconds.
+Found solution of 6x6 board id:7 in 12 steps with beam_search. Explored 4163 states in 0.33859359996858984 seconds.
+Found solution of 6x6 board id:8 in 6 steps with beam_search. Explored 142 states in 0.006361300009302795 seconds.
+Found solution of 6x6 board id:9 in 11 steps with beam_search. Explored 1801 states in 0.15414880000753328 seconds.
+Found solution of 6x6 board id:10 in 10 steps with beam_search. Explored 141 states in 0.01263970002764836 seconds.
+6x6 2:
+Found solution of 6x6 board id:1 in 9 steps with beam_search. Explored 634 states in 0.05021779995877296 seconds.
+Found solution of 6x6 board id:2 in 10 steps with beam_search. Explored 517 states in 0.05057800002396107 seconds.
+Found solution of 6x6 board id:3 in 10 steps with beam_search. Explored 2048 states in 0.11918400001013651 seconds.
+Found solution of 6x6 board id:4 in 8 steps with beam_search. Explored 109 states in 0.005413000006228685 seconds.
+Found solution of 6x6 board id:5 in 10 steps with beam_search. Explored 754 states in 0.07350650004809722 seconds.
+Found solution of 6x6 board id:6 in 10 steps with beam_search. Explored 991 states in 0.07700749998912215 seconds.
+Found solution of 6x6 board id:7 in 12 steps with beam_search. Explored 4163 states in 0.2894168000202626 seconds.
+Found solution of 6x6 board id:8 in 6 steps with beam_search. Explored 142 states in 0.009595700015779585 seconds.
+Found solution of 6x6 board id:9 in 11 steps with beam_search. Explored 1801 states in 0.15606960002332926 seconds.
+Found solution of 6x6 board id:10 in 10 steps with beam_search. Explored 141 states in 0.012565100041683763 seconds.
+6x6 3:
+Found solution of 6x6 board id:1 in 9 steps with beam_search. Explored 634 states in 0.053193299972917885 seconds.
+Found solution of 6x6 board id:2 in 10 steps with beam_search. Explored 517 states in 0.044181999983265996 seconds.
+Found solution of 6x6 board id:3 in 10 steps with beam_search. Explored 2048 states in 0.12045849999412894 seconds.
+Found solution of 6x6 board id:4 in 8 steps with beam_search. Explored 109 states in 0.014117500046268106 seconds.
+Found solution of 6x6 board id:5 in 10 steps with beam_search. Explored 754 states in 0.0726338000386022 seconds.
+Found solution of 6x6 board id:6 in 10 steps with beam_search. Explored 991 states in 0.08135990001028404 seconds.
+Found solution of 6x6 board id:7 in 12 steps with beam_search. Explored 4163 states in 0.2972929999814369 seconds.
+Found solution of 6x6 board id:8 in 6 steps with beam_search. Explored 142 states in 0.012238299997989088 seconds.
+Found solution of 6x6 board id:9 in 11 steps with beam_search. Explored 1801 states in 0.16679600003408268 seconds.
+Found solution of 6x6 board id:10 in 10 steps with beam_search. Explored 141 states in 0.011406100005842745 seconds.
+7x7 1:
+Found solution of 7x7 board id:1 in 6 steps with beam_search. Explored 206 states in 0.011868500034324825 seconds.
+Found solution of 7x7 board id:2 in 10 steps with beam_search. Explored 2682 states in 0.1663754999754019 seconds.
+Found solution of 7x7 board id:3 in 17 steps with beam_search. Explored 31375 states in 3.2527117999852635 seconds.
+Found solution of 7x7 board id:4 in 7 steps with beam_search. Explored 439 states in 0.020883799996227026 seconds.
+Found solution of 7x7 board id:5 in 12 steps with beam_search. Explored 2687 states in 0.20970079995458946 seconds.
+Found solution of 7x7 board id:6 in 6 steps with beam_search. Explored 263 states in 0.015419600007589906 seconds.
+Found solution of 7x7 board id:7 in 6 steps with beam_search. Explored 306 states in 0.011720399954356253 seconds.
+Found solution of 7x7 board id:8 in 6 steps with beam_search. Explored 242 states in 0.014114499965216964 seconds.
+Found solution of 7x7 board id:9 in 12 steps with beam_search. Explored 10490 states in 0.5808673999854364 seconds.
+Found solution of 7x7 board id:10 in 14 steps with beam_search. Explored 6800 states in 0.5461677999701351 seconds.
+7x7 2:
+Found solution of 7x7 board id:1 in 6 steps with beam_search. Explored 206 states in 0.011841600004117936 seconds.
+Found solution of 7x7 board id:2 in 10 steps with beam_search. Explored 2682 states in 0.17363099998328835 seconds.
+Found solution of 7x7 board id:3 in 17 steps with beam_search. Explored 31375 states in 3.253407399985008 seconds.
+Found solution of 7x7 board id:4 in 7 steps with beam_search. Explored 439 states in 0.021031800017226487 seconds.
+Found solution of 7x7 board id:5 in 12 steps with beam_search. Explored 2687 states in 0.2298906000214629 seconds.
+Found solution of 7x7 board id:6 in 6 steps with beam_search. Explored 263 states in 0.013295700016897172 seconds.
+Found solution of 7x7 board id:7 in 6 steps with beam_search. Explored 306 states in 0.010187599982600659 seconds.
+Found solution of 7x7 board id:8 in 6 steps with beam_search. Explored 242 states in 0.010444699961226434 seconds.
+Found solution of 7x7 board id:9 in 12 steps with beam_search. Explored 10490 states in 0.5739422999904491 seconds.
+Found solution of 7x7 board id:10 in 14 steps with beam_search. Explored 6800 states in 0.5254337000078522 seconds.
+7x7 3:
+Found solution of 7x7 board id:1 in 6 steps with beam_search. Explored 206 states in 0.010576399974524975 seconds.
+Found solution of 7x7 board id:2 in 10 steps with beam_search. Explored 2682 states in 0.16276979999383911 seconds.
+Found solution of 7x7 board id:3 in 17 steps with beam_search. Explored 31375 states in 3.2748188999830745 seconds.
+Found solution of 7x7 board id:4 in 7 steps with beam_search. Explored 439 states in 0.02275899995584041 seconds.
+Found solution of 7x7 board id:5 in 12 steps with beam_search. Explored 2687 states in 0.21838299999944866 seconds.
+Found solution of 7x7 board id:6 in 6 steps with beam_search. Explored 263 states in 0.012131800001952797 seconds.
+Found solution of 7x7 board id:7 in 6 steps with beam_search. Explored 306 states in 0.01236839999910444 seconds.
+Found solution of 7x7 board id:8 in 6 steps with beam_search. Explored 242 states in 0.008853800012730062 seconds.
+Found solution of 7x7 board id:9 in 12 steps with beam_search. Explored 10490 states in 0.5805700999917462 seconds.
+Found solution of 7x7 board id:10 in 14 steps with beam_search. Explored 6800 states in 0.5379866999574006 seconds.
+8x8 1:
+Found solution of 8x8 board id:1 in 7 steps with beam_search. Explored 510 states in 0.023907399969175458 seconds.
+Found solution of 8x8 board id:2 in 7 steps with beam_search. Explored 513 states in 0.02858790004393086 seconds.
+Found solution of 8x8 board id:3 in 7 steps with beam_search. Explored 556 states in 0.027005900046788156 seconds.
+Found solution of 8x8 board id:4 in 14 steps with beam_search. Explored 35942 states in 2.4782120999880135 seconds.
+Found solution of 8x8 board id:5 in 15 steps with beam_search. Explored 75945 states in 5.7857224000035785 seconds.
+Found solution of 8x8 board id:6 in 7 steps with beam_search. Explored 599 states in 0.03120880003552884 seconds.
+Found solution of 8x8 board id:7 in 12 steps with beam_search. Explored 20840 states in 1.2458461000351235 seconds.
+Found solution of 8x8 board id:8 in 15 steps with beam_search. Explored 54928 states in 5.327680699992925 seconds.
+Found solution of 8x8 board id:9 in 18 steps with beam_search. Explored 20271 states in 2.2046365999849513 seconds.
+Found solution of 8x8 board id:10 in 7 steps with beam_search. Explored 590 states in 0.031132299976889044 seconds.
+8x8 2:
+Found solution of 8x8 board id:1 in 7 steps with beam_search. Explored 510 states in 0.026410399994347245 seconds.
+Found solution of 8x8 board id:2 in 7 steps with beam_search. Explored 513 states in 0.025960400002077222 seconds.
+Found solution of 8x8 board id:3 in 7 steps with beam_search. Explored 556 states in 0.024925699981395155 seconds.
+Found solution of 8x8 board id:4 in 14 steps with beam_search. Explored 35942 states in 2.4607907999888994 seconds.
+Found solution of 8x8 board id:5 in 15 steps with beam_search. Explored 75945 states in 5.848741299996618 seconds.
+Found solution of 8x8 board id:6 in 7 steps with beam_search. Explored 599 states in 0.03128250001464039 seconds.
+Found solution of 8x8 board id:7 in 12 steps with beam_search. Explored 20840 states in 1.1707350999931805 seconds.
+Found solution of 8x8 board id:8 in 15 steps with beam_search. Explored 54928 states in 5.227796100021806 seconds.
+Found solution of 8x8 board id:9 in 18 steps with beam_search. Explored 20271 states in 2.227483199967537 seconds.
+Found solution of 8x8 board id:10 in 7 steps with beam_search. Explored 590 states in 0.02661390003049746 seconds.
+8x8 3:
+Found solution of 8x8 board id:1 in 7 steps with beam_search. Explored 510 states in 0.022538700024597347 seconds.
+Found solution of 8x8 board id:2 in 7 steps with beam_search. Explored 513 states in 0.028061199991498142 seconds.
+Found solution of 8x8 board id:3 in 7 steps with beam_search. Explored 556 states in 0.026799999992363155 seconds.
+Found solution of 8x8 board id:4 in 14 steps with beam_search. Explored 35942 states in 2.467117900028825 seconds.
+Found solution of 8x8 board id:5 in 15 steps with beam_search. Explored 75945 states in 5.3935266000335105 seconds.
+Found solution of 8x8 board id:6 in 7 steps with beam_search. Explored 599 states in 0.03229020000435412 seconds.
+Found solution of 8x8 board id:7 in 12 steps with beam_search. Explored 20840 states in 1.1941162999719381 seconds.
+Found solution of 8x8 board id:8 in 15 steps with beam_search. Explored 54928 states in 5.2218218999914825 seconds.
+Found solution of 8x8 board id:9 in 18 steps with beam_search. Explored 20271 states in 2.231319699960295 seconds.
+Found solution of 8x8 board id:10 in 7 steps with beam_search. Explored 590 states in 0.02451030001975596 seconds.
+9x9 1:
+Found solution of 9x9 board id:1 in 16 steps with beam_search. Explored 62745 states in 5.663082399987616 seconds.
+Found solution of 9x9 board id:2 in 12 steps with beam_search. Explored 6698 states in 0.47916570003144443 seconds.
+Found solution of 9x9 board id:3 in 10 steps with beam_search. Explored 1595 states in 0.09966489998623729 seconds.
+Found solution of 9x9 board id:4 in 21 steps with beam_search. Explored 52007 states in 7.232566700025927 seconds.
+Found solution of 9x9 board id:5 in 21 steps with beam_search. Explored 172363 states in 25.266405699949246 seconds.
+Found solution of 9x9 board id:6 in 17 steps with beam_search. Explored 92620 states in 9.72044810000807 seconds.
+Found solution of 9x9 board id:7 in 13 steps with beam_search. Explored 12503 states in 0.8602515999809839 seconds.
+Found solution of 9x9 board id:8 in 13 steps with beam_search. Explored 29190 states in 1.7499565000180155 seconds.
+Found solution of 9x9 board id:9 in 10 steps with beam_search. Explored 2836 states in 0.15595430001849309 seconds.
+Found solution of 9x9 board id:10 in 23 steps with beam_search. Explored 2664593 states in 734.793486199982 seconds.
+9x9 2:
+Found solution of 9x9 board id:1 in 16 steps with beam_search. Explored 62745 states in 5.4566291000228375 seconds.
+Found solution of 9x9 board id:2 in 12 steps with beam_search. Explored 6698 states in 0.5067873999942094 seconds.
+Found solution of 9x9 board id:3 in 10 steps with beam_search. Explored 1595 states in 0.11432320001767948 seconds.
+Found solution of 9x9 board id:4 in 21 steps with beam_search. Explored 52007 states in 7.257610699976794 seconds.
+Found solution of 9x9 board id:5 in 21 steps with beam_search. Explored 172363 states in 25.80401860002894 seconds.
+Found solution of 9x9 board id:6 in 17 steps with beam_search. Explored 92620 states in 9.59360080002807 seconds.
+Found solution of 9x9 board id:7 in 13 steps with beam_search. Explored 12503 states in 0.8573548999847844 seconds.
+Found solution of 9x9 board id:8 in 13 steps with beam_search. Explored 29190 states in 1.737952800001949 seconds.
+Found solution of 9x9 board id:9 in 10 steps with beam_search. Explored 2836 states in 0.15188499999931082 seconds.
+Found solution of 9x9 board id:10 in 23 steps with beam_search. Explored 2664593 states in 738.2540691999602 seconds.
+9x9 3:
+Found solution of 9x9 board id:1 in 16 steps with beam_search. Explored 62745 states in 5.445399999967776 seconds.
+Found solution of 9x9 board id:2 in 12 steps with beam_search. Explored 6698 states in 0.49441069999011233 seconds.
+Found solution of 9x9 board id:3 in 10 steps with beam_search. Explored 1595 states in 0.129857899970375 seconds.
+Found solution of 9x9 board id:4 in 21 steps with beam_search. Explored 52007 states in 7.071227399981581 seconds.
+Found solution of 9x9 board id:5 in 21 steps with beam_search. Explored 172363 states in 24.781488200009335 seconds.
+Found solution of 9x9 board id:6 in 17 steps with beam_search. Explored 92620 states in 9.721371499996167 seconds.
+Found solution of 9x9 board id:7 in 13 steps with beam_search. Explored 12503 states in 0.8480909999925643 seconds.
+Found solution of 9x9 board id:8 in 13 steps with beam_search. Explored 29190 states in 1.7433920999756083 seconds.
+Found solution of 9x9 board id:9 in 10 steps with beam_search. Explored 2836 states in 0.15133419999619946 seconds.
+Found solution of 9x9 board id:10 in 23 steps with beam_search. Explored 2664593 states in 739.3332981999847 seconds.
+10x10 1:
+Found solution of 10x10 board id:1 in 10 steps with beam_search. Explored 3279 states in 0.25967370002763346 seconds.
+Found solution of 10x10 board id:2 in 9 steps with beam_search. Explored 2219 states in 0.13852530001895502 seconds.
+Found solution of 10x10 board id:3 in 9 steps with beam_search. Explored 731 states in 0.07108800002606586 seconds.
+Found solution of 10x10 board id:4 in 10 steps with beam_search. Explored 2574 states in 0.1461952999816276 seconds.
+Found solution of 10x10 board id:5 in 10 steps with beam_search. Explored 4854 states in 0.2191484000068158 seconds.
+Found solution of 10x10 board id:6 in 20 steps with beam_search. Explored 118322 states in 14.620289399987087 seconds.
+Found solution of 10x10 board id:7 in 13 steps with beam_search. Explored 18126 states in 1.2359142999630421 seconds.
+Found solution of 10x10 board id:8 in 12 steps with beam_search. Explored 9804 states in 0.5976836000336334 seconds.
+Found solution of 10x10 board id:9 in 11 steps with beam_search. Explored 7074 states in 0.3768055000109598 seconds.
+Found solution of 10x10 board id:10 in 13 steps with beam_search. Explored 15024 states in 1.079607899999246 seconds.
+10x10 2:
+Found solution of 10x10 board id:1 in 10 steps with beam_search. Explored 3279 states in 0.1806368999532424 seconds.
+Found solution of 10x10 board id:2 in 9 steps with beam_search. Explored 2219 states in 0.10464380000485107 seconds.
+Found solution of 10x10 board id:3 in 9 steps with beam_search. Explored 731 states in 0.051890800008550286 seconds.
+Found solution of 10x10 board id:4 in 10 steps with beam_search. Explored 2574 states in 0.146205099998042 seconds.
+Found solution of 10x10 board id:5 in 10 steps with beam_search. Explored 4854 states in 0.22473910002736375 seconds.
+Found solution of 10x10 board id:6 in 20 steps with beam_search. Explored 118322 states in 15.185306800005492 seconds.
+Found solution of 10x10 board id:7 in 13 steps with beam_search. Explored 18126 states in 1.216826400021091 seconds.
+Found solution of 10x10 board id:8 in 12 steps with beam_search. Explored 9804 states in 0.6046410999842919 seconds.
+Found solution of 10x10 board id:9 in 11 steps with beam_search. Explored 7074 states in 0.39207179995719343 seconds.
+Found solution of 10x10 board id:10 in 13 steps with beam_search. Explored 15024 states in 1.0701054999954067 seconds.
+10x10 3:
+Found solution of 10x10 board id:1 in 10 steps with beam_search. Explored 3279 states in 0.1777579999761656 seconds.
+Found solution of 10x10 board id:2 in 9 steps with beam_search. Explored 2219 states in 0.11609029996907339 seconds.
+Found solution of 10x10 board id:3 in 9 steps with beam_search. Explored 731 states in 0.04815320001216605 seconds.
+Found solution of 10x10 board id:4 in 10 steps with beam_search. Explored 2574 states in 0.147809199988842 seconds.
+Found solution of 10x10 board id:5 in 10 steps with beam_search. Explored 4854 states in 0.23383090004790574 seconds.
+Found solution of 10x10 board id:6 in 20 steps with beam_search. Explored 118322 states in 14.97845180000877 seconds.
+Found solution of 10x10 board id:7 in 13 steps with beam_search. Explored 18126 states in 1.241178399999626 seconds.
+Found solution of 10x10 board id:8 in 12 steps with beam_search. Explored 9804 states in 0.6040314999991097 seconds.
+Found solution of 10x10 board id:9 in 11 steps with beam_search. Explored 7074 states in 0.39330240001436323 seconds.
+Found solution of 10x10 board id:10 in 13 steps with beam_search. Explored 15024 states in 1.0800261000404134 seconds.
+11x11 1:
+Found solution of 11x11 board id:1 in 20 steps with beam_search. Explored 47818 states in 6.379642899963073 seconds.
+Found solution of 11x11 board id:2 in 22 steps with beam_search. Explored 41746 states in 5.906850400031544 seconds.
+Found solution of 11x11 board id:3 in 9 steps with beam_search. Explored 1926 states in 0.09151009999914095 seconds.
+Found solution of 11x11 board id:4 in 9 steps with beam_search. Explored 1869 states in 0.09687930002110079 seconds.
+Found solution of 11x11 board id:5 in 14 steps with beam_search. Explored 18813 states in 1.3882716999505647 seconds.
+Found solution of 11x11 board id:6 in 14 steps with beam_search. Explored 40300 states in 2.563019900000654 seconds.
+Found solution of 11x11 board id:7 in 17 steps with beam_search. Explored 121216 states in 12.434696900018025 seconds.
+Found solution of 11x11 board id:8 in 23 steps with beam_search. Explored 590560 states in 101.40159009996569 seconds.
+Found solution of 11x11 board id:9 in 11 steps with beam_search. Explored 6296 states in 0.3359269000357017 seconds.
+Found solution of 11x11 board id:10 in 20 steps with beam_search. Explored 1433325 states in 191.44184060004773 seconds.
+11x11 2:
+Found solution of 11x11 board id:1 in 20 steps with beam_search. Explored 47818 states in 6.291661199997179 seconds.
+Found solution of 11x11 board id:2 in 22 steps with beam_search. Explored 41746 states in 5.899269399989862 seconds.
+Found solution of 11x11 board id:3 in 9 steps with beam_search. Explored 1926 states in 0.09884789999341592 seconds.
+Found solution of 11x11 board id:4 in 9 steps with beam_search. Explored 1869 states in 0.09854470001300797 seconds.
+Found solution of 11x11 board id:5 in 14 steps with beam_search. Explored 18813 states in 1.4083240000181831 seconds.
+Found solution of 11x11 board id:6 in 14 steps with beam_search. Explored 40300 states in 2.54356610000832 seconds.
+Found solution of 11x11 board id:7 in 17 steps with beam_search. Explored 121216 states in 12.0749864000245 seconds.
+Found solution of 11x11 board id:8 in 23 steps with beam_search. Explored 590560 states in 100.95253350003622 seconds.
+Found solution of 11x11 board id:9 in 11 steps with beam_search. Explored 6296 states in 0.34451779996743426 seconds.
+Found solution of 11x11 board id:10 in 20 steps with beam_search. Explored 1433325 states in 188.48617889999878 seconds.
+11x11 3:
+Found solution of 11x11 board id:1 in 20 steps with beam_search. Explored 47818 states in 6.198289100022521 seconds.
+Found solution of 11x11 board id:2 in 22 steps with beam_search. Explored 41746 states in 5.780329500033986 seconds.
+Found solution of 11x11 board id:3 in 9 steps with beam_search. Explored 1926 states in 0.09112070000264794 seconds.
+Found solution of 11x11 board id:4 in 9 steps with beam_search. Explored 1869 states in 0.10065460001351312 seconds.
+Found solution of 11x11 board id:5 in 14 steps with beam_search. Explored 18813 states in 1.3858487000106834 seconds.
+Found solution of 11x11 board id:6 in 14 steps with beam_search. Explored 40300 states in 2.4740674999775365 seconds.
+Found solution of 11x11 board id:7 in 17 steps with beam_search. Explored 121216 states in 12.032338800025173 seconds.
+Found solution of 11x11 board id:8 in 23 steps with beam_search. Explored 590560 states in 101.13896389998263 seconds.
+Found solution of 11x11 board id:9 in 11 steps with beam_search. Explored 6296 states in 0.3529679999919608 seconds.
+Found solution of 11x11 board id:10 in 20 steps with beam_search. Explored 1433325 states in 188.52053480001632 seconds.
+
+12x12 1:
+Found solution of 12x12 board id:1 in 16 steps with beam_search. Explored 43616 states in 4.205884900002275 seconds.
+Found solution of 12x12 board id:2 in 11 steps with beam_search. Explored 5657 states in 0.32259110000450164 seconds.
+Found solution of 12x12 board id:3 in 14 steps with beam_search. Explored 9195 states in 0.7138910999638028 seconds.
+Found solution of 12x12 board id:4 in 14 steps with beam_search. Explored 27445 states in 2.0301154000335373 seconds.
+Found solution of 12x12 board id:5 in 10 steps with beam_search. Explored 3259 states in 0.18663589999778196 seconds.
+Found solution of 12x12 board id:6 in 18 steps with beam_search. Explored 21460 states in 2.02961550001055 seconds.
+Found solution of 12x12 board id:7 in 18 steps with beam_search. Explored 129989 states in 13.753649800026324 seconds.
+Found solution of 12x12 board id:8 in 10 steps with beam_search. Explored 4236 states in 0.20814760000212118 seconds.
+Found solution of 12x12 board id:9 in 15 steps with beam_search. Explored 43359 states in 3.882773699995596 seconds.
+Found solution of 12x12 board id:10 in 25 steps with beam_search. Explored 1692439 states in 323.6147789999959 seconds.
+12x12 2:
+Found solution of 12x12 board id:1 in 16 steps with beam_search. Explored 43616 states in 4.256472599983681 seconds.
+Found solution of 12x12 board id:2 in 11 steps with beam_search. Explored 5657 states in 0.3128578999894671 seconds.
+Found solution of 12x12 board id:3 in 14 steps with beam_search. Explored 9195 states in 0.7174290000111796 seconds.
+Found solution of 12x12 board id:4 in 14 steps with beam_search. Explored 27445 states in 2.056757499987725 seconds.
+Found solution of 12x12 board id:5 in 10 steps with beam_search. Explored 3259 states in 0.1709584000054747 seconds.
+Found solution of 12x12 board id:6 in 18 steps with beam_search. Explored 21460 states in 2.0428544000023976 seconds.
+Found solution of 12x12 board id:7 in 18 steps with beam_search. Explored 129989 states in 15.401651599968318 seconds.
+Found solution of 12x12 board id:8 in 10 steps with beam_search. Explored 4236 states in 0.20581439998932183 seconds.
+Found solution of 12x12 board id:9 in 15 steps with beam_search. Explored 43359 states in 4.527750300010666 seconds.
+Found solution of 12x12 board id:10 in 25 steps with beam_search. Explored 1692439 states in 330.98453140002675 seconds.
+12x12 3:
+Found solution of 12x12 board id:1 in 16 steps with beam_search. Explored 43616 states in 4.280069899978116 seconds.
+Found solution of 12x12 board id:2 in 11 steps with beam_search. Explored 5657 states in 0.32011870003771037 seconds.
+Found solution of 12x12 board id:3 in 14 steps with beam_search. Explored 9195 states in 0.7113012000336312 seconds.
+Found solution of 12x12 board id:4 in 14 steps with beam_search. Explored 27445 states in 2.082952600030694 seconds.
+Found solution of 12x12 board id:5 in 10 steps with beam_search. Explored 3259 states in 0.17119839997030795 seconds.
+Found solution of 12x12 board id:6 in 18 steps with beam_search. Explored 21460 states in 2.071246200008318 seconds.
+Found solution of 12x12 board id:7 in 18 steps with beam_search. Explored 129989 states in 14.197682999947574 seconds.
+Found solution of 12x12 board id:8 in 10 steps with beam_search. Explored 4236 states in 0.20000170002458617 seconds.
+Found solution of 12x12 board id:9 in 15 steps with beam_search. Explored 43359 states in 3.8467860000091605 seconds.
+Found solution of 12x12 board id:10 in 25 steps with beam_search. Explored 1692439 states in 327.57713660004083 seconds.
+
+13x13 1:
+Found solution of 13x13 board id:1 in 21 steps with beam_search. Explored 439061 states in 57.41622500000085 seconds.
+Found solution of 13x13 board id:2 in 11 steps with beam_search. Explored 7125 states in 0.34502160000556614 seconds.
+Found solution of 13x13 board id:3 in 12 steps with beam_search. Explored 13018 states in 0.7013641000012285 seconds.
+Found solution of 13x13 board id:4 in 26 steps with beam_search. Explored 9606011 states in 6488.428553499994 seconds.
+Found solution of 13x13 board id:5 in 23 steps with beam_search. Explored 195557 states in 23.654695099998207 seconds.
+Found solution of 13x13 board id:6 in 20 steps with beam_search. Explored 182873 states in 22.68512699999701 seconds.
+Found solution of 13x13 board id:7 in 21 steps with beam_search. Explored 80807 states in 8.78417669999908 seconds.
+Found solution of 13x13 board id:8 in 13 steps with beam_search. Explored 31709 states in 1.694809599997825 seconds.
+Found solution of 13x13 board id:9 in 13 steps with beam_search. Explored 26467 states in 1.4664443000001484 seconds.
+Found solution of 13x13 board id:10 in 17 steps with beam_search. Explored 221132 states in 18.529094099998474 seconds.
+13x13 2:
+Found solution of 13x13 board id:1 in 21 steps with beam_search. Explored 439061 states in 56.73994649999804 seconds.
+Found solution of 13x13 board id:2 in 11 steps with beam_search. Explored 7125 states in 0.344407600001432 seconds.
+Found solution of 13x13 board id:3 in 12 steps with beam_search. Explored 13018 states in 0.7065637999985483 seconds.
+Found solution of 13x13 board id:4 in 26 steps with beam_search. Explored 9606011 states in 6488.113014099996 seconds.
+Found solution of 13x13 board id:5 in 23 steps with beam_search. Explored 195557 states in 23.108036899997387 seconds.
+Found solution of 13x13 board id:6 in 20 steps with beam_search. Explored 182873 states in 22.944186799999443 seconds.
+Found solution of 13x13 board id:7 in 21 steps with beam_search. Explored 80807 states in 8.73833169999125 seconds.
+Found solution of 13x13 board id:8 in 13 steps with beam_search. Explored 31709 states in 1.6951210999977775 seconds.
+Found solution of 13x13 board id:9 in 13 steps with beam_search. Explored 26467 states in 1.4984581000026083 seconds.
+Found solution of 13x13 board id:10 in 17 steps with beam_search. Explored 221132 states in 18.483786099997815 seconds.
+13x13 3:
+Found solution of 13x13 board id:1 in 21 steps with beam_search. Explored 439061 states in 56.85465069999918 seconds.
+Found solution of 13x13 board id:2 in 11 steps with beam_search. Explored 7125 states in 0.34814750000077765 seconds.
+Found solution of 13x13 board id:3 in 12 steps with beam_search. Explored 13018 states in 0.7078767000057269 seconds.
+Found solution of 13x13 board id:4 in 26 steps with beam_search. Explored 9606011 states in 6502.961869899998 seconds.
+Found solution of 13x13 board id:5 in 23 steps with beam_search. Explored 195557 states in 23.126533700007712 seconds.
+Found solution of 13x13 board id:6 in 20 steps with beam_search. Explored 182873 states in 22.62226200000441 seconds.
+Found solution of 13x13 board id:7 in 21 steps with beam_search. Explored 80807 states in 8.76147700000729 seconds.
+Found solution of 13x13 board id:8 in 13 steps with beam_search. Explored 31709 states in 1.6961917000007816 seconds.
+Found solution of 13x13 board id:9 in 13 steps with beam_search. Explored 26467 states in 1.471007100000861 seconds.
+Found solution of 13x13 board id:10 in 17 steps with beam_search. Explored 221132 states in 18.68779930000892 seconds.
+14x14 1:
+Found solution of 14x14 board id:1 in 12 steps with beam_search. Explored 6009 states in 0.35078490000159945 seconds.
+Found solution of 14x14 board id:2 in 18 steps with beam_search. Explored 314741 states in 29.158858700000565 seconds.
+Found solution of 14x14 board id:3 in 13 steps with beam_search. Explored 9755 states in 0.6699298000021372 seconds.
+Found solution of 14x14 board id:4 in 14 steps with beam_search. Explored 50635 states in 3.138405999998213 seconds.
+Found solution of 14x14 board id:5 in 13 steps with beam_search. Explored 26170 states in 1.432157700008247 seconds.
+Found solution of 14x14 board id:6 in 14 steps with beam_search. Explored 18643 states in 1.4051678999967407 seconds.
+Found solution of 14x14 board id:7 in 13 steps with beam_search. Explored 26491 states in 1.439193999991403 seconds.
+Found solution of 14x14 board id:8 in 13 steps with beam_search. Explored 30571 states in 1.6438414000003831 seconds.
+Found solution of 14x14 board id:9 in 16 steps with beam_search. Explored 169657 states in 13.414170300005935 seconds.
+Found solution of 14x14 board id:10 in 13 steps with beam_search. Explored 14262 states in 0.9640939000091748 seconds.
+14x14 2:
+Found solution of 14x14 board id:1 in 12 steps with beam_search. Explored 6009 states in 0.3581957999995211 seconds.
+Found solution of 14x14 board id:2 in 18 steps with beam_search. Explored 314741 states in 28.951739000011003 seconds.
+Found solution of 14x14 board id:3 in 13 steps with beam_search. Explored 9755 states in 0.6871918999968329 seconds.
+Found solution of 14x14 board id:4 in 14 steps with beam_search. Explored 50635 states in 3.173322000002372 seconds.
+Found solution of 14x14 board id:5 in 13 steps with beam_search. Explored 26170 states in 1.502066700006253 seconds.
+Found solution of 14x14 board id:6 in 14 steps with beam_search. Explored 18643 states in 1.4011962999938987 seconds.
+Found solution of 14x14 board id:7 in 13 steps with beam_search. Explored 26491 states in 1.454972399995313 seconds.
+Found solution of 14x14 board id:8 in 13 steps with beam_search. Explored 30571 states in 1.743420700004208 seconds.
+Found solution of 14x14 board id:9 in 16 steps with beam_search. Explored 169657 states in 13.336423100001412 seconds.
+Found solution of 14x14 board id:10 in 13 steps with beam_search. Explored 14262 states in 0.959652699995786 seconds.
+14x14 3:
+Found solution of 14x14 board id:1 in 12 steps with beam_search. Explored 6009 states in 0.372214899995015 seconds.
+Found solution of 14x14 board id:2 in 18 steps with beam_search. Explored 314741 states in 29.0148668000038 seconds.
+Found solution of 14x14 board id:3 in 13 steps with beam_search. Explored 9755 states in 0.6778874000010546 seconds.
+Found solution of 14x14 board id:4 in 14 steps with beam_search. Explored 50635 states in 3.160726300004171 seconds.
+Found solution of 14x14 board id:5 in 13 steps with beam_search. Explored 26170 states in 1.454146200005198 seconds.
+Found solution of 14x14 board id:6 in 14 steps with beam_search. Explored 18643 states in 1.4281710000068415 seconds.
+Found solution of 14x14 board id:7 in 13 steps with beam_search. Explored 26491 states in 1.4483518000051845 seconds.
+Found solution of 14x14 board id:8 in 13 steps with beam_search. Explored 30571 states in 1.6292781999945873 seconds.
+Found solution of 14x14 board id:9 in 16 steps with beam_search. Explored 169657 states in 13.479244300004211 seconds.
+Found solution of 14x14 board id:10 in 13 steps with beam_search. Explored 14262 states in 0.9573833999893395 seconds.
+15x15 1:
+Found solution of 15x15 board id:1 in 14 steps with beam_search. Explored 48027 states in 2.9207323000009637 seconds.
+Found solution of 15x15 board id:2 in 14 steps with beam_search. Explored 63240 states in 3.609705299997586 seconds.
+Found solution of 15x15 board id:3 in 16 steps with beam_search. Explored 132910 states in 10.539266699997825 seconds.
+Found solution of 15x15 board id:4 in 14 steps with beam_search. Explored 34429 states in 2.2559387999936007 seconds.
+Found solution of 15x15 board id:5 in 23 steps with beam_search. Explored 458841 states in 51.31816049999907 seconds.
+Found solution of 15x15 board id:6 in 14 steps with beam_search. Explored 42631 states in 2.4989100999955554 seconds.
+Found solution of 15x15 board id:7 in 26 steps with beam_search. Explored 5753118 states in 2195.4230108000047 seconds.
+Found solution of 15x15 board id:8 in 19 steps with beam_search. Explored 148545 states in 16.98865569999907 seconds.
+Found solution of 15x15 board id:9 in 24 steps with beam_search. Explored 3076539 states in 814.895994999999 seconds.
+Found solution of 15x15 board id:10 in 27 steps with beam_search. Explored 5152356 states in 1992.0812110000115 seconds.
+15x15 2:
+Found solution of 15x15 board id:1 in 14 steps with beam_search. Explored 48027 states in 2.996311399998376 seconds.
+Found solution of 15x15 board id:2 in 14 steps with beam_search. Explored 63240 states in 3.4400120999926003 seconds.
+Found solution of 15x15 board id:3 in 16 steps with beam_search. Explored 132910 states in 9.89978200000769 seconds.
+Found solution of 15x15 board id:4 in 14 steps with beam_search. Explored 34429 states in 2.2219194000063 seconds.
+Found solution of 15x15 board id:5 in 23 steps with beam_search. Explored 458841 states in 49.48404729999311 seconds.
+Found solution of 15x15 board id:6 in 14 steps with beam_search. Explored 42631 states in 2.5284113999950932 seconds.
+Found solution of 15x15 board id:7 in 26 steps with beam_search. Explored 5753118 states in 2183.928813499995 seconds.
+Found solution of 15x15 board id:8 in 19 steps with beam_search. Explored 148545 states in 17.639103499997873 seconds.
+Found solution of 15x15 board id:9 in 24 steps with beam_search. Explored 3076539 states in 811.1365046999999 seconds.
+Found solution of 15x15 board id:10 in 27 steps with beam_search. Explored 5152356 states in 1998.1200714000006 seconds.
+15x15 3:
+Found solution of 15x15 board id:1 in 14 steps with beam_search. Explored 48027 states in 2.8667900000000373 seconds.
+Found solution of 15x15 board id:2 in 14 steps with beam_search. Explored 63240 states in 3.4312395000015385 seconds.
+Found solution of 15x15 board id:3 in 16 steps with beam_search. Explored 132910 states in 9.919294499995885 seconds.
+Found solution of 15x15 board id:4 in 14 steps with beam_search. Explored 34429 states in 2.168781400003354 seconds.
+Found solution of 15x15 board id:5 in 23 steps with beam_search. Explored 458841 states in 54.57445449999068 seconds.
+Found solution of 15x15 board id:6 in 14 steps with beam_search. Explored 42631 states in 3.1797892000031425 seconds.
+Found solution of 15x15 board id:7 in 26 steps with beam_search. Explored 5753118 states in 2200.3834215000097 seconds.
+Found solution of 15x15 board id:8 in 19 steps with beam_search. Explored 148545 states in 17.747671699995408 seconds.
+Found solution of 15x15 board id:9 in 24 steps with beam_search. Explored 3076539 states in 823.4802175000077 seconds.
+Found solution of 15x15 board id:10 in 27 steps with beam_search. Explored 5152356 states in 2001.3141746000038 seconds.
+
+

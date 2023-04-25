@@ -6,8 +6,14 @@ code in rush-hour-solver1 can be found here:
 https://github.com/marvingfx/rush-hour-solver
 The changes made where to the solver.py in the main function and the added solver2 function.
 
+The authors of these repositories have gived their permission to use them in this experiment.
+# The Original Experiment
+The boards used in the original experiment are the ones in the folders that state the boards sizes and follow the naming convention of 
+board[size]_[ID].csv. The results of these boards can be found in the Results folder.
+
+
 # Setup
-Will need to install psutil so the program can record the memory usage
+Will need to install psutil so the program can record the memory usage use:
 pip install psutil 
 
 The code has been edited slightly to better fit this experiment.
